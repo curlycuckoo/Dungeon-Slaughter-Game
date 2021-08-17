@@ -1,2 +1,2 @@
-# Dungeon Slaughter Game
- Text Game to Practice OOP
+# DungeonSlaughter-master
+Text Adventure, Dungeon Master Game. 
